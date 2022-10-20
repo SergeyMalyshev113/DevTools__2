@@ -1,3 +1,6 @@
 [submodule "DevTools__2"]
 	path = DevTools__2
 	url = https://github.com/SergeyMalyshev113/DevTools__2.git
+[submodule "Support_repo"]
+	path = Support_repo
+	url = https://github.com/SergeyMalyshev113/Support_repo
